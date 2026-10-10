@@ -1,0 +1,9 @@
+# Environment and IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.log
+/vendor/
+/node_modules/
+/coverage/
