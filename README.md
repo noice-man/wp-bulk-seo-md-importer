@@ -4,7 +4,7 @@
 
 Импорт обычных записей WordPress из **одного большого `.md` / `.markdown` / `.txt`** с Yoast SEO, категориями, тегами и управлением публикацией прямо из Markdown.
 
-**Страница плагина на ворд-пресс.рф (ссылка начнёт работать после публикации карточки):** [Bulk SEO Markdown Importer](https://ворд-пресс.рф/plugins/bulk-seo-markdown-importer/)  
+**Страница плагина на ворд-пресс.рф:** [Bulk SEO Markdown Importer](https://ворд-пресс.рф/plugins/bulk-seo-markdown-importer/)  
 **Установочный ZIP:** [v1.0.0](dist/wp-bulk-seo-md-importer-v1.0.0.zip)  
 **Промпт для ИИ:** [docs/AI-PROMPT.md](docs/AI-PROMPT.md)  
 **Пример входного файла:** [examples/example-batch.md](examples/example-batch.md)
