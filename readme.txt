@@ -3,7 +3,7 @@ Contributors: valerymolodtsov
 Tags: seo, markdown, importer, yoast, scheduling
 Requires at least: 6.0
 Requires PHP: 7.4
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,11 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Установите ZIP в Плагины → Добавить новый → Загрузить плагин. После активации откройте «SEO MD Импорт» в левом меню.
 
 == Changelog ==
+= 1.0.4 =
+* Обновлено описание добровольной статистики установок: теперь прямо указано, что она помогает разработчику на ворд-пресс.рф видеть используемые версии и поддерживать безопасное обновление со старых выпусков.
+* Уточнено, какие сведения отправляются, как часто, что происходит после отказа и почему отказ не влияет на получение обновлений.
+* Сохранён SDK 1.1.2: ручная проверка обновлений получает свежие метаданные, фоновые запросы используют кеш.
+
 = 1.0.3 =
 * WPR Updates Client SDK 1.1.2: refresh Hub metadata during explicit WordPress manual update checks while retaining background caching and ETag.
 
