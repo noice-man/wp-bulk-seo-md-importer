@@ -31,5 +31,5 @@ if ( is_readable( $puc_file ) ) {
         __FILE__,
         'wp-bulk-seo-md-importer'
     );
-    $puc_checker->getVcsApi()->enableReleaseAssets( '/^wp-bulk-seo-md-importer-v[0-9]+\\.[0-9]+\\.[0-9]+\\.zip$/i' );
+    $puc_checker->getVcsApi()->enableReleaseAssets( '/^wp-bulk-seo-md-importer-v[0-9]+\.[0-9]+\.[0-9]+\.zip$/i' );
 }
