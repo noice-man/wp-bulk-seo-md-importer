@@ -4,7 +4,7 @@
  * Plugin URI: https://ворд-пресс.рф
  * Update URI: https://xn----ctbgf6biedka.xn--p1ai/plugins/wp-bulk-seo-md-importer/
  * Description: Массовый импорт записей WordPress из одного Markdown-файла с предпросмотром, полями Yoast SEO и датами публикации из файла.
- * Version: 1.0.1
+ * Version: 1.0.2
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Author: Valery Molodtsov
