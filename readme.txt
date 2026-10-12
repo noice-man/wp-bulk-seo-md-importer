@@ -3,7 +3,7 @@ Contributors: valerymolodtsov
 Tags: seo, markdown, importer, yoast, scheduling
 Requires at least: 6.0
 Requires PHP: 7.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,9 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Установите ZIP в Плагины → Добавить новый → Загрузить плагин. После активации откройте «SEO MD Импорт» в левом меню.
 
 == Changelog ==
+= 1.0.2 =
+* WPR Updates Client v1.1.1: native auto-update toggle compatibility.
+
 = 1.0.1 =
 * Migrate plugin updates to WPR Update Hub v1.1.
 * Add optional, consent-based anonymous installation statistics.
